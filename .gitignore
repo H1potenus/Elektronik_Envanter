@@ -1,0 +1,9 @@
+# Kişisel envanter verileri paylaşılmaz
+*.db
+*.csv
+*.pdf
+
+__pycache__/
+*.pyc
+.venv/
+.idea/
